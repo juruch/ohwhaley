@@ -1,9 +1,9 @@
-#' Summon a whale for a customisable pick-me up
+#' Summon a whale for a customisable pick-me up !
 #'
-#' @param what Whatever phrase tou want whale to echo. If not supplied a random phrase is chosen
+#' @param what Whatever phrase you want whale to echo. If not supplied a random whale pun is chosen.
 #'
 #'
-#' @return Whale shaped message
+#' @return Whale shaped message.
 #' @export
 #'
 #' @examples say("You are whale-come")
