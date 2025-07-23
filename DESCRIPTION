@@ -1,10 +1,10 @@
 Package: ohwhaley
-Title: What the Package Does (One Line, Title Case)
+Title: Return A Talking Whale
 Version: 0.0.0.9000
 Authors@R: 
     person("Justine", "Ruch", , "justinegabrielle.ruch@students.mq.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package has the function say which returns a whale that either says what was given in parameter ex: ohwhaley::say("Hello"), or it will return a whale pun if the function say is empty ex: ohwhaley::say().
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
